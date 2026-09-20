@@ -1,2 +1,2 @@
-Script used with windows custom actions
-Issue fixed: when upgrading from W23H2 to W24H2 device losing wired 802.1X Authenticated policy.
+Script used with windows custom actions.
+When upgrading from W23H2 to W24H2 device lost Wired 802.1X Authenticated policy.
