@@ -1,4 +1,4 @@
-REM 2026-09-20-22:06
+rem 2026-09-20-22:06
 @echo off
 setlocal EnableExtensions EnableDelayedExpansion
 
